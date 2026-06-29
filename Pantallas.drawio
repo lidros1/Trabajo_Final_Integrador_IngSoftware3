@@ -1,0 +1,187 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram id="page1" name="Módulo Taller Automotor">
+    <mxGraphModel dx="1081" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title_sheet" value="&lt;b&gt;DISEÑO DE INTERFACES - MÓDULO DE GESTIÓN DE TALLER AUTOMOTOR (PUNTO 8)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="50" y="30" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="win1_bg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;strokeWidth=2;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="90" width="720" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="win1_bar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="90" width="720" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="win1_title" value="TallerAutomotor OS — Tablero Kanban de Control de Órdenes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontColor=#475569;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="120" y="92" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_crear_orden" value="&lt;b&gt;+ CREAR NUEVA ORDEN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3b82f6;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;fontSize=11;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="590" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="col_INGRESADOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf2f7;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="62" y="180" width="155" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="head_INGRESADOS" value="&lt;b&gt;INGRESADOS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#475569;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="62" y="185" width="155" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="col_EN REPARACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf2f7;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="232" y="180" width="155" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="head_EN REPARACIÓN" value="&lt;b&gt;EN REPARACIÓN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#475569;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="232" y="185" width="155" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="col_ESP. REPUESTOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf2f7;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="402" y="180" width="155" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="head_ESP. REPUESTOS" value="&lt;b&gt;ESP. REPUESTOS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#475569;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="402" y="185" width="155" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="col_LISTOS / ENTREGA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf2f7;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="572" y="180" width="155" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="head_LISTOS / ENTREGA" value="&lt;b&gt;LISTOS / ENTREGA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#475569;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="572" y="185" width="155" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="card_ot101" value="&lt;b&gt;&lt;font color=&quot;#3b82f6&quot;&gt;OT-101&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Toyota Yaris&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#64748b&quot; style=&quot;font-size: 10px;&quot;&gt;Cambio de aceite, filtros y revisión general.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:#dcfce7; padding:2px 5px; border-radius:3px; font-size:9px; color:#15803d;&quot;&gt;&lt;b&gt;MECÁNICA&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e2e8f0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="67" y="220" width="145" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_edit_ot101" value="Ver / Editar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=none;fontColor=#475569;align=center;verticalAlign=middle;fontSize=9;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="142.5" y="300" width="57.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="card_ot104" value="&lt;b&gt;&lt;font color=&quot;#3b82f6&quot;&gt;OT-104&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Fiat Cronos&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#64748b&quot; style=&quot;font-size: 10px;&quot;&gt;Alineación, balanceo y rotación de cubiertas.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:#dcfce7; padding:2px 5px; border-radius:3px; font-size:9px; color:#15803d;&quot;&gt;&lt;b&gt;MECÁNICA&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e2e8f0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" parent="1" vertex="1">
+          <mxGeometry x="67" y="335" width="145" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_edit_ot104" value="Ver / Editar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=none;fontColor=#475569;align=center;verticalAlign=middle;fontSize=9;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="145" y="410" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="card_ot098" value="&lt;b&gt;&lt;font color=&quot;#3b82f6&quot;&gt;OT-098&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ford Ranger&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#64748b&quot; style=&quot;font-size: 10px;&quot;&gt;Reemplazo de kit de distribución completo.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:#f1f5f9; padding:2px 5px; border-radius:3px; font-size:9px; color:#475569;&quot;&gt;&lt;b&gt;PARTICULAR&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e2e8f0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" parent="1" vertex="1">
+          <mxGeometry x="237" y="220" width="145" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_edit_ot098" value="Ver / Editar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=none;fontColor=#475569;align=center;verticalAlign=middle;fontSize=9;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="320" y="300" width="55" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="card_ot095" value="&lt;b&gt;&lt;font color=&quot;#b45309&quot;&gt;OT-095&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;VW Amarok&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#64748b&quot; style=&quot;font-size: 10px;&quot;&gt;Espera de arribo de bomba de agua original.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:#fef3c7; padding:2px 5px; border-radius:3px; font-size:9px; color:#b45309;&quot;&gt;&lt;b&gt;DEMORADO&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e2e8f0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" parent="1" vertex="1">
+          <mxGeometry x="407" y="220" width="145" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_edit_ot095" value="Ver / Editar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=none;fontColor=#475569;align=center;verticalAlign=middle;fontSize=9;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="487" y="300" width="53" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="card_ot090" value="&lt;b&gt;&lt;font color=&quot;#15803d&quot;&gt;OT-090&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Chevrolet S10&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#64748b&quot; style=&quot;font-size: 10px;&quot;&gt;Pastillas de freno cambiadas. SMS enviado.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:#dbeafe; padding:2px 5px; border-radius:3px; font-size:9px; color:#1d4ed8;&quot;&gt;&lt;b&gt;GARANTÍA&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e2e8f0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" parent="1" vertex="1">
+          <mxGeometry x="577" y="220" width="145" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_edit_ot090" value="Ver / Editar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=none;fontColor=#475569;align=center;verticalAlign=middle;fontSize=9;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="650" y="300" width="55" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="win2_bg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;strokeWidth=2;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="90" width="560" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="win2_bar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="90" width="560" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="win2_title" value="TallerAutomotor OS — Registrar Nueva Orden de Servicio" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontColor=#475569;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="870" y="92" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="search_box" value="Ingrese Patente (ej: AF123JK), Apellido o DNI del cliente..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#cbd5e0;align=left;fontColor=#94a3b8;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="825" y="140" width="510" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_Patente del Vehículo" value="Patente del Vehículo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontSize=10;fontColor=#334155;" parent="1" vertex="1">
+          <mxGeometry x="825" y="200" width="150" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_Patente del Vehículo" value="AF123JK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;spacingLeft=8;fontSize=11;fontColor=#1e293b;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="220" width="240" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_Kilometraje Actual" value="Kilometraje Actual" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontSize=10;fontColor=#334155;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="200" width="150" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_Kilometraje Actual" value="45.200 km" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;spacingLeft=8;fontSize=11;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="220" width="240" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_Marca" value="Marca" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontSize=10;fontColor=#334155;" parent="1" vertex="1">
+          <mxGeometry x="825" y="265" width="150" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_Marca" value="Toyota" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;spacingLeft=8;fontSize=11;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="825" y="285" width="240" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_Modelo" value="Modelo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontSize=10;fontColor=#334155;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="265" width="150" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_Modelo" value="Yaris XLS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;spacingLeft=8;fontSize=11;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="285" width="240" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_factory" value="Tipo de Servicio Especializado (Vinculado a Factory Method)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontSize=10;fontColor=#334155;" parent="1" vertex="1">
+          <mxGeometry x="825" y="335" width="450" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="rad1" value="🔘 Mecánica General" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=11;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="825" y="355" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rad2" value="⚪ Chapa y Pintura" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=11;fontColor=#475569;" parent="1" vertex="1">
+          <mxGeometry x="965" y="355" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rad3" value="⚪ Service / Garantía" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=11;fontColor=#475569;" parent="1" vertex="1">
+          <mxGeometry x="1105" y="355" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_desc" value="Descripción de Síntomas / Reclamo del Cliente" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;fontSize=10;fontColor=#334155;" parent="1" vertex="1">
+          <mxGeometry x="825" y="390" width="300" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_desc" value="El cliente manifiesta un ruido leve en el tren delantero al doblar a la izquierda..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=11;fontStyle=2;fontColor=#64748b;" parent="1" vertex="1">
+          <mxGeometry x="825" y="410" width="510" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_submit" value="&lt;b&gt;GENERAR ORDEN DE TRABAJO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3b82f6;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;fontSize=12;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="825" y="485" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w3_bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;strokeWidth=2;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="600" width="560" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="w3_bar" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="600" width="560" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w3_t" value="TallerAutomotor OS — Ver Orden #OT-101" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontColor=#475569;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="120" y="602" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3_info" value="&lt;b&gt;Patente:&lt;/b&gt; AF123JK&lt;br&gt;&lt;b&gt;Cliente:&lt;/b&gt; Juan Pérez&lt;br&gt;&lt;b&gt;Servicio:&lt;/b&gt; Mecánica General&lt;br&gt;&lt;b&gt;Estado Actual:&lt;/b&gt; En Reparación&lt;br&gt;&lt;br&gt;&lt;b&gt;Descripción:&lt;/b&gt;&lt;br&gt;Cambio de aceite, filtros y revisión general." style="text;html=1;align=left;verticalAlign=top;fontSize=11;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="70" y="660" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_go_edit" value="EDITAR ORDEN" style="rounded=1;fillColor=#f59e0b;fontColor=#ffffff;fontSize=11;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="180" y="940" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_close_ver" value="Cerrar" style="rounded=1;fillColor=#e2e8f0;fontColor=#475569;fontSize=11;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="365" y="940" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w4_bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e0;strokeWidth=2;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="600" width="560" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="w4_bar" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="600" width="560" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w4_t" value="TallerAutomotor OS — Editar Orden #OT-101" style="text;html=1;align=left;verticalAlign=middle;fontStyle=1;fontColor=#475569;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="720" y="602" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_st_edit" value="ESTADO DE LA ORDEN" style="text;html=1;align=left;fontSize=9;fontColor=#334155;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="660" width="150" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="sel_st_edit" value="▶ En Reparación ▼" style="rounded=1;fillColor=#fef3c7;strokeColor=#f59e0b;fontColor=#b45309;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="670" y="680" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_str_edit" value="ESTRATEGIA DE COBRO" style="text;html=1;align=left;fontSize=9;fontColor=#334155;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="660" width="150" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="sel_str_edit" value="Cobro Particular ▼" style="rounded=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="890" y="680" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl_desc_edit" value="Descripción / Tareas a realizar" style="text;html=1;align=left;fontSize=9;fontColor=#334155;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="730" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_desc_edit" value="Cambio de aceite, filtros y revisión general." style="rounded=1;fillColor=#ffffff;strokeColor=#cbd5e0;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=11;fontColor=#1e293b;" parent="1" vertex="1">
+          <mxGeometry x="670" y="750" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_save_edit" value="GUARDAR CAMBIOS" style="rounded=1;fillColor=#22c55e;fontColor=#ffffff;fontSize=11;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="800" y="940" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_cancel_edit" value="Cancelar" style="rounded=1;fillColor=#e2e8f0;fontColor=#475569;fontSize=11;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="985" y="940" width="90" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
